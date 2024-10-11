@@ -2,4 +2,4 @@
 - 📫 How to reach me: 8h3. on discord
 - 😄 Pronouns: She/Her
 
-![](https://komarev.com/ghpvc/?username=8h3-coder)
+![](https://komarev.com/ghpvc/?username=8h3-coder&color=green)
